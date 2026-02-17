@@ -4,7 +4,7 @@
 
 <p> 
   <img src="https://img.shields.io/badge/Release-Jul%202024-green">  
-  <img src="https://img.shields.io/github/stars/MateusPitura/db-sql-imdb?style=social"> 
+  <img src="https://img.shields.io/github/stars/MateusPitura/dataset-sql-imdb?style=social"> 
 </p> 
 
 ## Description
@@ -32,7 +32,7 @@ The data was downloaded from [CS50](https://cs50.harvard.edu/x/2023/psets/7/movi
 
 **For devs | MySQL:** it takes about 1 minute to import all the data
 
-1. `git clone git@github.com:MateusPitura/db-sql-imdb.git dump`
+1. `git clone git@github.com:MateusPitura/dataset-sql-imdb.git dump`
 
 2. `mysql -u <username> -p`
 
